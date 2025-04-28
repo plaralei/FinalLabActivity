@@ -1,3 +1,28 @@
+/*
+Name: Pedellaga, Ralph Waldo V.
+      Palaruan, Princess Laralei F.
+Date: April 24, 2025
+Activity name: Final LAb Activity  1
+
+Student Class
+
+ This class represents a student in the Student Management System. Each student has a unique ID, a name, an age, and a grade. The class provides methods to access and modify these attributes.
+
+ Attributes:
+ - ID: A unique identifier for the student (final, cannot be changed).
+ - Name: The name of the student.
+ - Age: The age of the student.
+ - Grade: The grade of the student (A, B, C, D, E).
+
+ Methods:
+ - Constructor: Initializes a new student with the provided ID, name, age, and grade.
+ - Getters: Methods to retrieve the values of ID, Name, Age, and Grade.
+ - Setters: Methods to update the Name, Age, and Grade of the student.
+ - toString: Returns a string representation of the student object, including
+   ID, Name, Age, and Grade.
+
+ */
+
 package FinAct1PalaruanPedellaga;
 
 public class Student {
