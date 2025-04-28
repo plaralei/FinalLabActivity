@@ -1,46 +1,4 @@
 /*
-Name: Pedellaga, Ralph Waldo V.
-      Palaruan, Princess Laralei F.
-Date: April 24, 2025
-Activity name: Final LAb Activity  1
-
-Student Management System
-
- This program implements a simple Student Management System that allows users to:
-
- 1. Add new students with unique IDs, names, ages, and grades.
- 2. Remove existing students by their ID.
- 3. Update student information, including name, age, and grade.
- 4. Display a list of all students currently in the system.
- 5. Search for a student by their first name.
- 6. Sort the list of students by their names.
- 7. Find and display the student with the highest grade.
- 8. Exit the program gracefully.
-
- The system uses an ArrayList to store student objects and provides a text-based
- menu for user interaction. Input validation is implemented to ensure that
- the data entered by the user is correct and within expected ranges.
-
- */
-
-
-
-Message security: standard encryptionConversation opened. 1 read message.
-
-        Skip to content
-        Using Saint Louis University, Inc. Mail with screen readers
-        Enable desktop notifications for Saint Louis University, Inc. Mail.
-        OK  No thanks
-
-        1 of 1,212
-        (no subject)
-        Inbox
-
-        PALARUAN, PRINCESS LARALEI <plfp2251254@slu.edu.ph>
-        11:48 AM (29 minutes ago)
-        to me
-
-/*
    Name: Palaruan, Princess Laralei F.
          Pedellaga, Ralph Waldo
    Date: April 24, 2025
